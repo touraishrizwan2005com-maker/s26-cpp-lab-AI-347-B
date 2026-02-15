@@ -1,2 +1,3 @@
-# s26-cpp-lab-AI-347-B
-It is a lab repository
+My Name is Touraish Rizwan
+2025-AI-347
+Section B
